@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [I have completed my BE In Computer Science. I have also completed data analytics course and learned many tools and applying to gain experience in this technology.](I have completed my BE In Computer Science. I have also completed data analytics course and learned many tools and applying to gain experience in this technology.)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me siddhantshinde989@gmail.com:</h3>
 <p align="left">
 </p>
 
